@@ -19,9 +19,11 @@ Only **27% of Indian adults are financially literate**. For the remaining majori
 Furthermore, calculating optimal tax regimes (post-Budget 2026), projecting FIRE (Financial Independence, Retire Early) timelines, and parsing chaotic multi-page CAMS mutual fund statements are overwhelming tasks for retail investors.
 
 ## 💡 Our Solution
-**FinSathi** is an un-biased, commission-free platform driven entirely by mathematical modeling and state-of-the-art AI orchestration. It replaces human upselling with pure algorithm-driven tax planning and portfolio analysis.
+<img src="/app/HomePage.png" alt="FinSathi Home Page" />
+FinSathi is an un-biased, commission-free platform driven entirely by mathematical modeling and state-of-the-art AI orchestration. It replaces human upselling with pure algorithm-driven tax planning and portfolio analysis.
 
 Our architecture leverages an underlying **Multi-Agent Orchestrator** which connects localized PDF parsers directly with Indian tax code variables (Section 80C, 115BAC, etc.) to generate deeply personalized, actionable insights in milliseconds—without the bias.
+
 
 ---
 
@@ -72,9 +74,7 @@ Our architecture leverages an underlying **Multi-Agent Orchestrator** which conn
 ---
 
 ## 🌐 Live Application
-Check out the fully responsive, mobile-first experience here:
-
-**[https://fin-sathi.netlify.app/](https://fin-sathi.netlify.app/)**
+Check out the fully responsive, mobile-first experience here: **[https://fin-sathi.netlify.app/](https://fin-sathi.netlify.app/)**
 
 ---
 
