@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "extractedFields": {
+    "basicSalary": 900000,
+    "hraReceived": 360000,
+    "otherAllowances": 540000,
+    "totalGross": 1800000,
+    "tdsDeducted": 100000,
+    "standardDeduction": 50000,
+    "professionalTax": 0,
+    "investments_80c": 150000,
+    "nps_80ccd": 50000,
+    "employerNPS_80ccd2": 0,
+    "healthInsurance_80d": 25000,
+    "homeLoanInterest": 0,
+    "otherDeductions": 0,
+    "totalChapterVIA": 225000
+  },
+  "method": "regex",
+  "pdfTextLength": 4387
+}

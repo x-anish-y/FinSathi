@@ -1,0 +1,172 @@
+
+
+FORM 16
+[See Rule 31(1)(a)]
+Certificate under Section 203 of the Income Tax Act, 1961
+for Tax Deducted at Source from Income Chargeable under the Head 'Salaries'
+PART A
+Certificate No.Financial Year2024-25
+Assessment Year2025-26
+A. Details of the Employer
+Name of the Employer
+TAN of the Employer
+PAN of the Employer
+Address
+CIN (if applicable)
+B. Details of the Employee
+Name of the Employee
+PAN of the Employee
+Aadhaar Number (if available)
+Designation
+Address
+Period of Employment (From)01-Apr-2024
+Period of Employment (To)31-Mar-2025
+C. Summary of Tax Deducted at Source
+QuarterReceipt No.Amount of Tax Deducted (Rs.)Amount of TDS Deposited (Rs.)
+Q1 (Apr - Jun 2024)
+Q2 (Jul - Sep 2024)
+Q3 (Oct - Dec 2024)
+Q4 (Jan - Mar 2025)
+TOTAL
+PART B (ANNEXURE)
+Details of Salary Paid and any other income and tax deducted
+1. Gross Salary
+ComponentAmount (Rs.)
+(a) Basic Salary
+(b) House Rent Allowance (HRA)
+(c) Special Allowance / Other Allowances
+(d) Leave Travel Allowance (LTA)
+(e) Bonus / Performance Pay
+50,000
+1,50,000
+38,500
+38,500
+38,500
+38,500
+1,54,050
+6,00,000
+2,40,000
+3,60,000
+38,500
+38,500
+38,500
+38,500
+1,54,050
+Innovate Digital Services Pvt Ltd
+DELB98765F
+AACID5678K
+Tower B, 12th Floor, Connaught Place, New Delhi - 110001
+ U62013DL2015PTC275896
+ Priya Deshmukh
+CMNPD4567J
+XXXX XXXX 7890
+Marketing Manager
+House No. 45, Vasant Kunj, New Delhi - 110070
+FORM16-2024-FS-002
+TDS-Q1-2024-002
+TDS-Q2-2024-002
+TDS-Q3-2024-002
+TDS-Q4-2025-002
+Whether opting for new tax regime u/s 115BAC
+
+GROSS SALARY [1(a)+1(b)+1(c)+1(d)+1(e)]
+2. Exemptions under Section 10
+ExemptionAmount (Rs.)
+(a) HRA Exemption u/s 10(13A) [Least of 3 conditions]
+   Condition 1: Actual HRA Received
+   Condition 2: Rent Paid - 10% of Basic = 2,40,000 - 90,000
+   Condition 3: 50% of Basic (Metro City)
+(b) LTA Exemption u/s 10(5)
+TOTAL EXEMPTIONS u/s 10
+3. Income Chargeable under the Head 'Salaries'
+DescriptionAmount (Rs.)
+Gross Salary (from 1)
+Less: Exemptions u/s 10 (from 2)
+Less: Standard Deduction u/s 16(ia)(50,000)
+NET INCOME FROM SALARY
+4. Deductions under Chapter VI-A
+SectionNature of DeductionAmount (Rs.)
+80CLife Insurance Premium + ELSS + PPF + EPF1,50,000
+80CCD(1B)Contribution to NPS (Employee - Additional)50,000
+80CCD(2)Contribution to NPS (Employer)
+80DHealth Insurance Premium (Self + Family)
+80GDonations to Eligible Funds
+24(b)Interest on Home Loan (Self-occupied)
+TOTAL DEDUCTIONS
+5. Tax Computation (Old Regime)
+DescriptionAmount (Rs.)
+Net Income from Salary
+Less: Chapter VI-A Deductions
+TAXABLE INCOME
+TAX CALCULATION (Old Regime Slabs)
+Up to Rs. 2,50,000 — NIL0
+Rs. 2,50,001 to 5,00,000 @ 5%12,500
+Rs. 5,00,001 to 10,00,000 @ 20%
+Rs. 10,00,001 to 13,75,000 @ 30%
+Total Income Tax
+Add: Health & Education Cess @ 4%
+TOTAL TAX PAYABLE
+Less: Relief u/s 89 (if any)0
+NET TAX PAYABLE
+25,000
+50,000
+10,000
+2,00,000
+2,412
+30,000
+96,000
+2,40,000
+96,000
+3,00,000
+1,21,000
+4,90,000
+47,800
+1,00,500
+1,60,300
+62,712
+62,712
+14,00,000
+14,00,000
+12,29,000
+12,29,000
+7,39,000
+(1,21,000)
+(4,90,000)
+
+Tax Deducted at Source (TDS)
+Balance Tax Payable / (Refund)
+6. Details for HRA Exemption Calculation
+ParameterValue
+Monthly Rent Paid by Employee
+Annual Rent Paid
+City of Residence
+HRA Exemption = Min of:
+  Actual HRA Received
+  Rent Paid - 10% of Basic (2,40,000 - 90,000)
+  50% of Basic Salary (Metro)
+HRA EXEMPTION ALLOWED (Minimum)
+VERIFICATION / DECLARATION
+I, Anita Mehta, son/daughter of Ram Mehta, working in the capacity of Manager - HR & Payroll,
+do hereby certify that a sum of Rs. 2,08,160/- (Rupees Two Lakh Eight Thousand One Hundred
+Sixty Only) has been deducted and deposited to the credit of the Central Government.
+I further certify that the information given above is true, complete, and correct.
+Date: 31-May-2025
+Signature of the person responsible
+for deduction of tax
+NOTE FOR FINSATHI TESTING: This is a sample Form 16 generated for hackathon testing purposes. Employee: Rahul Sharma | Basic: Rs. 9,00,000
+| HRA: Rs. 3,60,000 | Other Allowances: Rs. 5,40,000 | 80C: Rs. 1,50,000 | NPS 80CCD(1B): Rs. 50,000 | 80D: Rs. 25,000 | Monthly Rent: Rs. 20,000
+| City: Metro. This matches the ET Hackathon 2026 judge test scenario for Track 9 - AI Money Mentor.
+91,338
+1,54,050
+Vijay Kumar
+TAN: DELB98765F
+Chief Financial Officer
+Innovate Digital Services Pvt Ltd
+Rs. 13,000  per month
+Rs. 1,56,000
+New Delhi (Metro)
+Rs. 2,40,000
+Rs. 2,40,000
+Rs. 3,00,000
+Rs. 96,000
+Place: New Delhi
