@@ -1,4 +1,5 @@
 import './globals.css';
+import Navbar from '@/components/Navbar';
 
 export const metadata = {
   title: 'FinSathi® | Your AI Financial Advisor',
@@ -16,42 +17,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className="bg-navy-900 text-navy-50 min-h-screen flex flex-col antialiased">
         {/* Navigation */}
-        <nav className="nav-blur fixed top-0 left-0 right-0 z-50 border-b border-navy-50/5">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6">
-            <div className="flex items-center justify-between h-14">
-              <a href="/" className="flex items-center gap-2">
-                <span className="text-xl font-serif font-bold text-gradient-teal">FinSathi</span>
-                <span className="text-[8px] text-navy-50/30 font-semibold tracking-wider">®</span>
-              </a>
-
-              <div className="hidden md:flex items-center gap-1">
-                {[
-                  { href: '/health-score', label: 'Health Score' },
-                  { href: '/fire-planner', label: 'FIRE Planner' },
-                  { href: '/tax-wizard', label: 'Tax Wizard' },
-                  { href: '/mf-xray', label: 'MF X-Ray' },
-                  { href: '/couples-planner', label: "Couple's Planner" },
-                  { href: '/audit-trail', label: 'Audit Trail' },
-                ].map((item) => (
-                  <a
-                    key={item.href}
-                    href={item.href}
-                    className="px-3 py-1.5 text-xs font-medium text-navy-50/60 hover:text-teal-200 transition-colors rounded-lg hover:bg-surface-container/50"
-                  >
-                    {item.label}
-                  </a>
-                ))}
-              </div>
-
-              {/* Mobile menu button */}
-              <button className="md:hidden p-2 text-navy-50/60 hover:text-teal-200" id="mobile-menu-btn">
-                <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-                  <path strokeLinecap="round" strokeLinejoin="round" d="M4 6h16M4 12h16M4 18h16" />
-                </svg>
-              </button>
-            </div>
-          </div>
-        </nav>
+        <Navbar />
 
         {/* Main content */}
         <main className="flex-1 pt-14">
@@ -74,7 +40,7 @@ export default function RootLayout({ children }) {
             <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
               <div className="flex items-center gap-2">
                 <span className="font-serif font-bold text-teal-200">FinSathi</span>
-                <span className="text-xs text-navy-50/30">© 2025 All rights reserved</span>
+                <span className="text-xs text-navy-50/30">© 2026 All rights reserved</span>
               </div>
               <div className="flex items-center gap-4 text-xs text-navy-50/40">
                 <span>Privacy Policy</span>

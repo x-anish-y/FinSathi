@@ -35,7 +35,7 @@ function AnimatedCounter({ target, suffix = '', prefix = '' }) {
 const modules = [
   { title: 'Money Health Score', description: 'A diagnostic scan of your entire financial landscape. Instant feedback on risks and growth gaps.', href: '/health-score', icon: '🫀', delay: 100 },
   { title: 'FIRE Path Planner', description: 'When can you realistically stop working? Calculate your Financial Independence date with AI precision.', href: '/fire-planner', icon: '🔥', badge: 'Most Popular', badgeColor: 'amber', delay: 200 },
-  { title: 'Tax Wizard', description: 'Algorithmically find every legal deduction available under New & Old tax regimes for FY2024-25.', href: '/tax-wizard', icon: '🧙', delay: 300 },
+  { title: 'Tax Wizard', description: 'Algorithmically find every legal deduction available under New & Old tax regimes for FY2026-27.', href: '/tax-wizard', icon: '🧙', delay: 300 },
   { title: 'MF Portfolio X-Ray', description: 'Find hidden overlap risks, expense ratio drag, and STCG-aware rebalancing for your mutual funds.', href: '/mf-xray', icon: '🔬', delay: 400 },
   { title: "Couple's Money Planner", description: 'Built for two. Sync goals, optimize joint taxes, and plan a unified financial future.', href: '/couples-planner', icon: '💑', badge: "India's first AI-powered joint planner", badgeColor: 'teal', delay: 500 },
   { title: 'Audit Trail', description: 'Full transparency into every AI decision. Track all agent activities, calculations, and compliance checks in real time.', href: '/audit-trail', icon: '📋', badge: 'Transparency', badgeColor: 'teal', delay: 600 },
